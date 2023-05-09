@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abubakarl" alt="abubakarl" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Flutter hybrid app development**
 
 - 💬 Ask me about **c, dart, python, flutter**
 
@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abubakarl&show_icons=true&locale=en&layout=compact" alt="abubakarl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abubakarl&show_icons=true&locale=en" alt="abubakarl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abubakarl&" alt="abubakarl" /></p>
