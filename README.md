@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **wizium123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-3sY7dmSiWYBKCnDPoqfdbsYNH2QS3Su/view?usp=share_link](https://drive.google.com/file/d/1-3sY7dmSiWYBKCnDPoqfdbsYNH2QS3Su/view?usp=share_link)
+- 📄 Know about my experiences [Drive](https://drive.google.com/file/d/1-3sY7dmSiWYBKCnDPoqfdbsYNH2QS3Su/view?usp=share_link)
 
 - ⚡ Fun fact **I think i really work smart**
 
