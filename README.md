@@ -3,7 +3,11 @@
 <h1 align="center">Hey there 👋, I'm Abu Bakar</h1>
 <h3 align="center">Flutter Enthusiast 🚀 | Software Craftsman | Dev with a Purpose</h3>
 
-[![](https://visitcount.itsvg.in/api?id=ABUBAKARL&icon=0&color=8)](https://visitcount.itsvg.in)
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=ABUBAKARL&icon=0&color=8)](https://visitcount.itsvg.in)
+  
+</div>
 
 ---
 
@@ -27,7 +31,7 @@
 
 ### ✍️ Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </div>
 
 ---
