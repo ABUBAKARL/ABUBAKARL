@@ -1,5 +1,3 @@
-Here's a tweaked and streamlined version of your profile README, with a touch of Gen Z flair while keeping it engaging and visually clean. This focuses on creating a vibrant, cohesive look without overwhelming visitors with excessive icons or stats.
-
 ---
 
 <h1 align="center">Hey there 👋, I'm Abu Bakar</h1>
@@ -67,5 +65,3 @@ Here's a tweaked and streamlined version of your profile README, with a touch of
 <!-- Generated with ❤️ by GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-
-This keeps your profile visually dynamic without clutter, emphasizes your skills, and includes a fun aesthetic touch, making it engaging for Gen Z viewers!
