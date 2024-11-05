@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=ABUBAKARL&icon=0&color=8)](https://visitcount.itsvg.in)
+  [![](https://komarev.com/ghpvc/?username=abubakarl&icon=0&color=8)](https://visitcount.itsvg.in)
   
 </div>
 
