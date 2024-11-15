@@ -21,7 +21,7 @@
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=ABUBAKARL&theme=merko&hide_border=true&include_all_commits=false&count_private=false" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABUBAKARL&theme=merko&hide_border=true" height="150px"/>
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABUBAKARL&theme=merko&hide_border=true" height="150px"/> -->
   
 </div>
 
