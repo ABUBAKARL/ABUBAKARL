@@ -1,5 +1,3 @@
----
-
 <h1 align="center">Hey there 👋, I'm Abu Bakar</h1>
 <h3 align="center">Flutter Enthusiast 🚀 | Software Craftsman | Dev with a Purpose</h3>
 
@@ -8,8 +6,6 @@
   [![](https://komarev.com/ghpvc/?username=abubakarl&icon=0&color=ff69b4)](https://visitcount.itsvg.in)
   
 </div>
-
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abubakar.code) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abubakarl) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@abubakarcodes) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@abubakar-codes) 
